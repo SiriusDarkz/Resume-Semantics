@@ -1,0 +1,47 @@
+
+* {
+
+	font-family: 'Assistant', sans-serif;
+	margin-bottom: 5px; 
+
+}
+
+.personal-pic img {
+
+	height: 210px;
+	width:  215px;
+	background-size: 20px;
+    border-radius: 50%;
+    border: 1.5px solid black; 
+
+}
+
+.personal-pic img:hover {
+
+		
+	transform: scaleX(1.1);	 
+
+} 
+
+
+h1 {
+
+	margin-left: 30px;
+}
+
+ul {
+	list-style: none;
+	margin-bottom: 10px;
+}
+
+.titlex {
+
+	font-weight: bold;
+}
+
+.work {
+   
+   list-style:circle;
+}
+
+
